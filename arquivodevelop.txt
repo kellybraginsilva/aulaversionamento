@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Olá eu sou o Julio...
+=======
+Alterando 
+>>>>>>> 1545fcb6b7591fdbb1a359c56a97e78bb2721360
